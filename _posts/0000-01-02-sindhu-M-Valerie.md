@@ -2,5 +2,5 @@
 layout: slide
 title: "Training exercise!"
 ---
-Test
+Test 3
 Use the left arrow to go back!
